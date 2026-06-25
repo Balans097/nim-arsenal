@@ -25,9 +25,12 @@
 
 | Библиотека | Категория | Справочник |
 |------------|-----------|------------|
+| constantine | криптография | [aaa.md](aaa.md) |
 | sdl3 | графика / ввод | [sdl3.md](sdl3.md) |
 
+> Репозиторий библиотеки: https://github.com/mratsim/constantine
 > Репозиторий библиотеки: https://github.com/nim-lang/sdl3
+
 
 ---
 
