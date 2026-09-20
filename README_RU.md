@@ -1,4 +1,3 @@
-
 # 📚 nim-arsenal
 
 *Подборка справочников по библиотекам Nim: аннотированные сводки API, заметки по использованию и примеры для наиболее мощных пакетов экосистемы.*
@@ -26,6 +25,7 @@
 | Библиотека | Категория | Справочник |
 |------------|-----------|------------|
 | constantine | криптография | [aaa.md](aaa.md) |
+| constantine — Ethereum BLS Signatures | криптография | [ethereum-bls-signatures.md](ethereum-bls-signatures.md) |
 | sdl3 | графика / ввод | [sdl3.md](sdl3.md) |
 
 > Репозиторий библиотеки: https://github.com/mratsim/constantine
@@ -37,5 +37,3 @@
 ## Участие в проекте
 
 Исправления и дополнения приветствуются через **issues** или **pull requests**.
-
-
